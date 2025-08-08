@@ -198,6 +198,12 @@ MIT License - feel free to use this agent for any purpose
 
 If you find this agent helpful, please star the repository to help others discover it!
 
+## 👋 Author
+
+Created by **Cathryn Lavery**
+- Twitter: [@cathrynlavery](https://twitter.com/cathrynlavery)
+- Shopify Store: [BestSelf.co](https://bestself.co)
+
 ---
 
-*Last Updated: January 2025 | Shopify Winter '24 Edition Features Included*
+*Last Updated: August 2025 | Includes Shopify Winter '24 & Summer '24 Edition Features*
