@@ -202,6 +202,7 @@ If you find this agent helpful, please star the repository to help others discov
 
 Created by **Cathryn Lavery**
 - Twitter: [@cathrynlavery](https://twitter.com/cathrynlavery)
+- Blog: [LittleMight.com](https://littlemight.com)
 - Shopify Store: [BestSelf.co](https://bestself.co)
 
 ---
